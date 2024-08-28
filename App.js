@@ -8,7 +8,7 @@ const HeadingComponent = () => {
     </div>
   );
 };
-const titel = () => (
+const titel = (
   <h1 className="head" tabIndex="6">
     Hello world
     <HeadingComponent />
