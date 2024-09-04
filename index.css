@@ -71,3 +71,28 @@
 .filter {
     margin: 16px;
 }
+
+.shimmer-Container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shimmer-card {
+    margin: 20px;
+    width: 200px;
+    height: 400px;
+    background-color: #f0f0f0;
+}
+
+.login-btn {
+    background-color: #fff;
+    border: none;
+    margin: 9px;
+    padding: 15px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.filter {
+    display: flex;
+}
